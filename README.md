@@ -1,1 +1,1 @@
-# coursera_machine_learning
+Andrew Ng's machine learning course coding assignments
